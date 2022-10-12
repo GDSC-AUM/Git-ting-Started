@@ -5,7 +5,7 @@ Welcome to Git-ting Started! This is part of our hands-on activity for the open 
 
 
 Copy the content below and edit it with your details
-
+```
   <div class="card">
         <div class="part2">
           <div class="sub-part2">
@@ -23,3 +23,4 @@ Copy the content below and edit it with your details
           </div>
         </div>
       </div>
+```
